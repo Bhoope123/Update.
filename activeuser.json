@@ -14,3 +14,11 @@
         "Allowoffline": false
     }
 ]
+    {
+        "device_id": "be3b49248068a474",
+        "username": "12345",
+        "password": "12345678",
+        "expirydate": "21-2-2026",
+        "Allowoffline": true
+    },
+]
